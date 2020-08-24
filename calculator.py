@@ -3,6 +3,7 @@ def interface():
 	while True:
 		print("Options")
 		print("1 - HDL")
+		print("Options for you")
 		print("9 - Quit")
 		choice = input("Enter your choice: ")
 		if choice == '9':
